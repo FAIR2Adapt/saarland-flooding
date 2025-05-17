@@ -37,7 +37,6 @@ jobs:
       - name: Install MyST Markdown
         run: npm install -g mystmd
       - name: Build HTML Assets
-      - name: Build HTML Assets
         run: |
           rm -rf _build
           myst build --html
