@@ -1,5 +1,9 @@
 # Using JupyterGIS with the Urban Data Portal
 
+
+[![RoHub Executable Research Object](https://img.shields.io/badge/RoHub-FAIR_Executable_Research_Object-2ea44f?logo=Open+Access&logoColor=blue)](https://w3id.org/ro-id/15e54fde-611f-49cc-8951-e15c650f0cb2)
+
+
 ## Introduction
 
 These notebooks showcase how to use JupyterGIS.
