@@ -25,11 +25,13 @@ project:
   date: 2025-16-05
   toc:
     - file: index.md
-    - file: notebooks/notebook.ipynb
+    - file: notebooks/Flood_protection_line_Saarland.ipynb
+    - file: notebooks/Hamburg_urban_data_portal_WFS.ipynb
+    - file: notebooks/get_typename_from_WFS.ipynb
   exports:
     - format: pdf
       template: curvenote
-      article: notebooks/notebook.ipynb
+      article: notebooks/Flood_protection_line_Saarland.ipynb
       output: exports/notebook.pdf
     - format: cff
       type: software
