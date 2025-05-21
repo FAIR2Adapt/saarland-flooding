@@ -8,7 +8,7 @@ We use JupyterGIS on the UseGalaxy.eu. The tool can be launched from [JupyterGIS
 
 To help new users get started, there are two tutorials available:
 - [Intro to JupyterGIS](https://jupytergis.readthedocs.io/en/latest/user_guide/tutorials/01-intro/index.html) a step-by-step guide for new users.
-- [Collaborative Features Tutorial](https://training.galaxyproject.org/training-material/topics/climate/tutorials/jupytergis_collaboration/tutorial.html) — a guide for exploring real-time editing and shared annotations. 
+- [Collaborative Features Tutorial](https://training.galaxyproject.org/training-material/topics/climate/tutorials/jupytergis_collaboration/tutorial.html) — a guide for exploring real-time editing and shared annotations.
 
 
 ![Hamburg Urban Data Poral for flood analysis](static/saarland_map_output.png)
