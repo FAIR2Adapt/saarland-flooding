@@ -1,5 +1,7 @@
 # Flooding in Saarland
 
+[![RoHub Executable Research Object](https://img.shields.io/badge/RoHub-FAIR_Executable_Research_Object-2ea44f?logo=Open+Access&logoColor=blue)](https://w3id.org/ro-id/15e54fde-611f-49cc-8951-e15c650f0cb2)
+
 We showcase the usage of JupyterGIS for creating geographical maps showing the HQ 100 flooding zones in Saarland along with images from Wikimedia Commons.
 
 These notebooks showcase how to use JupyterGIS.
