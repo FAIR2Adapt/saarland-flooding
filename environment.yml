@@ -20,4 +20,7 @@ dependencies:
   - jupyter
   - mystmd
   - jupytergis
+  - ipykernel
+  - jupyter_client
+  - nbformat
   - nodejs=18  # For mystmd CLI
