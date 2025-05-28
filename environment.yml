@@ -1,4 +1,4 @@
-name: myenv
+name: jupytergis
 channels:
   - conda-forge
   - nodefaults
@@ -20,6 +20,7 @@ dependencies:
   - jupyter
   - mystmd
   - jupytergis
+  - qgis
   - ipykernel
   - jupyter_client
   - nbformat
